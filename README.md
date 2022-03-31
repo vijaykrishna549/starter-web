@@ -9,3 +9,6 @@ Sample website with plenty of files for demos
 #Rebase
 
 adding text to test Rebase
+
+#Stash
+adding text to check stash

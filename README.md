@@ -12,3 +12,7 @@ adding text to test Rebase
 
 #Stash
 adding text to check stash
+
+#Muliple Stash
+
+adding randomm text for multiple stash
